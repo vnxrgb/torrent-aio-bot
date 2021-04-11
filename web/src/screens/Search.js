@@ -69,6 +69,6 @@ function Search({ api }) {
   );
 }
 
-Search.defaultProps = { api: "redomir.herokuapp.com/" };
+Search.defaultProps = { api: "https://redomir.herokuapp.com/" };
 
 export default Search;
